@@ -1,0 +1,9 @@
+[submodule "diplom_documentation"]
+	path = diplom_documentation
+	url = https://github.com/kazzrom/diplom_documentation.git
+[submodule "diplom_frontend"]
+	path = diplom_frontend
+	url = https://github.com/kazzrom/diplom_frontend.git
+[submodule "diplom_backend"]
+	path = diplom_backend
+	url = https://github.com/kazzrom/diplom_backend.git
